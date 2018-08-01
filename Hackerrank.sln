@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27428.2043
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerrank", "Hackerrank\Hackerrank.csproj", "{606B6EEB-4A58-4420-A175-5B53CABAFF49}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Staircase", "6_Staircase\6_Staircase.csproj", "{04FF4045-47C6-4769-9AD9-683247934A45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_MiniMaxSum", "7_MiniMaxSum\7_MiniMaxSum.csproj", "{AB16EA6D-DA62-4F17-BAF9-9AF84A014EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_BirthdayCakeCandles", "8_BirthdayCakeCandles\8_BirthdayCakeCandles.csproj", "{2FD38A1A-5EDC-4775-BA5A-8F39760DB7BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{AB16EA6D-DA62-4F17-BAF9-9AF84A014EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB16EA6D-DA62-4F17-BAF9-9AF84A014EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB16EA6D-DA62-4F17-BAF9-9AF84A014EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD38A1A-5EDC-4775-BA5A-8F39760DB7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD38A1A-5EDC-4775-BA5A-8F39760DB7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD38A1A-5EDC-4775-BA5A-8F39760DB7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD38A1A-5EDC-4775-BA5A-8F39760DB7BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

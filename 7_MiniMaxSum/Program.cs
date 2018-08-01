@@ -16,33 +16,12 @@
 
     class Solution
     {
-
-        // Complete the miniMaxSum function below.
-        /*
-        static void miniMaxSum(int[] arr)
-        {
-            int[] result = new int[2];
-
-            int sum = 0;            
-            for (int i = 0; i < arr.Length; i++)
-            {
-                sum += arr[i];
-            }
-
-            result[0] = sum - arr[arr.Length - 1];
-            result[1] = sum - arr[0];
-
-            Console.WriteLine(String.Join(" ", result));
-
-            Console.ReadKey();
-        }
-        */
         // Complete the miniMaxSum function below.
         static void miniMaxSum(int[] arr)
         {
-            int[] result = new int[2];
+            long[] result = new long[2];
 
-            int[] calculation = new int[arr.Length];
+            long[] calculation = new long[arr.Length];
 
             for (int i = 0; i < arr.Length; i++)
             {
